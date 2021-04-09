@@ -1,0 +1,27 @@
+.container
+{
+    background-color: #3867d6;
+    height: 95vh;
+    width: 1500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px 10px;
+}
+
+.input-text
+{
+    height: 50vh;
+    width: 500px;
+    border: 2px solid black;
+}
+.output-text
+{
+    height: 55vh;
+    width: 500px;
+    background-color: #464646;
+    border: 2px solid black;
+}
+h3{
+    color:white;
+}
