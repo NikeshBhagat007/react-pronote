@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-pronote/static/css/main.8654e2d8.chunk.css",
+    "main.js": "/react-pronote/static/js/main.9cef9047.chunk.js",
+    "main.js.map": "/react-pronote/static/js/main.9cef9047.chunk.js.map",
+    "runtime-main.js": "/react-pronote/static/js/runtime-main.016a8bf3.js",
+    "runtime-main.js.map": "/react-pronote/static/js/runtime-main.016a8bf3.js.map",
+    "static/js/2.d116cb51.chunk.js": "/react-pronote/static/js/2.d116cb51.chunk.js",
+    "static/js/2.d116cb51.chunk.js.map": "/react-pronote/static/js/2.d116cb51.chunk.js.map",
+    "static/js/3.b5c63f2a.chunk.js": "/react-pronote/static/js/3.b5c63f2a.chunk.js",
+    "static/js/3.b5c63f2a.chunk.js.map": "/react-pronote/static/js/3.b5c63f2a.chunk.js.map",
+    "index.html": "/react-pronote/index.html",
+    "static/css/main.8654e2d8.chunk.css.map": "/react-pronote/static/css/main.8654e2d8.chunk.css.map",
+    "static/js/2.d116cb51.chunk.js.LICENSE.txt": "/react-pronote/static/js/2.d116cb51.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-pronote/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.016a8bf3.js",
+    "static/js/2.d116cb51.chunk.js",
+    "static/css/main.8654e2d8.chunk.css",
+    "static/js/main.9cef9047.chunk.js"
+  ]
+}
